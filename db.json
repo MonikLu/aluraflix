@@ -1,0 +1,36 @@
+{
+    "videos": [
+      {
+        "id": 1,
+        "title": "Conociendo la API de Open AI",
+        "category": "AI",
+        "image": "https://img.youtube.com/vi/tDG29s1IVx8&t/maxresdefault.jpg",
+        "videoUrl": "https://youtu.be/tDG29s1IVx8?si=F_Sp1w0guyx9NW2s",
+        "description": "¿Te interesa aprender a conectar tus aplicaciones Java con la API de OpenAI? En este video te llevaremos paso a paso desde la creación de tu cuenta hasta la exploración de los principales recursos de la API, incluyendo modelos, costos y el uso del playground. ¡Es el comienzo perfecto para desarrollar tus proyectos aprovechando la inteligencia artificial! Prepárate, porque en el próximo video te mostraremos cómo implementar todo esto directamente desde una aplicación Java. ¡No te lo pierdas!"
+      },
+      {
+        "id": 2,
+        "title": "Simplificando el Back End",
+        "category": "Backend",
+        "image": "https://img.youtube.com/vi/XuSXJ9DUcvY&ab/maxresdefault.jpg",
+        "videoUrl": "https://youtu.be/XuSXJ9DUcvY?si=GEOPO7F5IIqYeuMI",
+        "description": "¿Quieres conocer y entender mejor qué es el Back End? En este video Bismarck Berrios nos explica qué es el back end de una manera sencilla."
+      },
+      {
+        "id": 3,
+        "title": "AI in Web Development",
+        "category": "Innovation",
+        "image": "/api/placeholder/400/225",
+        "videoUrl": "https://www.youtube.com/watch?v=example3",
+        "description": "Explore how AI is transforming web development"
+      },
+      {
+        "id": 4,
+        "title": "Agile Project Management",
+        "category": "Management",
+        "image": "/api/placeholder/400/225",
+        "videoUrl": "https://www.youtube.com/watch?v=example4",
+        "description": "Master Agile methodologies for better project management"
+      }
+    ]
+  }
